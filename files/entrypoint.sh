@@ -1,4 +1,4 @@
-#!/bin/ash
+#!/bin/bash
 
 unbound -c /opt/unbound/unbound.conf
 status=$?
